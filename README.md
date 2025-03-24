@@ -10,7 +10,7 @@ _Learning Objective: Demonstrate an understanding of accessing array data (by in
 
 Since the year 1950, the concentration of atmospheric CO₂ has surpassed a level never before seen in the past millennia (depicted by the horizontal dotted line on the graph above). Back in the 1960s, the global growth rate of atmospheric carbon dioxide was roughly 0.6 ± 0.1 ppm per year, but in recent years, the growth rate has been 2.3 ppm per year.
 
-This has had far reaching effects on the enviornment since almost half of the CO₂ emitted since 1850 remains in the atmosphere today, whereas the rest of it has partially dissolved in the world’s oceans.
+This has had far reaching effects on the environment since almost half of the CO₂ emitted since 1850 remains in the atmosphere today, whereas the rest of it has partially dissolved in the world’s oceans.
 
 This in turn has caused the ocean to lower its pH by 0.1 units, which is a 30% increase in acidity, since the start of the Industrial Revolution. This increase in acidity greatly affects marine life as it interferes with their ability to extract calcium from the water to build their shells and skeletons.
 
